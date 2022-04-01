@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C7BBD760-C669-48B1-90A0-79AAFFF530E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudmobFdk", "src\CloudmobFdk\CloudmobFdk.csproj", "{F8595793-070A-4747-8454-1FF20D086A5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClloudmobFassUtils", "src\CloudmobFassUtils\CloudmobFassUtils.csproj", "{7EF49945-5CBF-4AD8-BEBA-4F7B97A4FAC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8595793-070A-4747-8454-1FF20D086A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8595793-070A-4747-8454-1FF20D086A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8595793-070A-4747-8454-1FF20D086A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8595793-070A-4747-8454-1FF20D086A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EF49945-5CBF-4AD8-BEBA-4F7B97A4FAC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF49945-5CBF-4AD8-BEBA-4F7B97A4FAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF49945-5CBF-4AD8-BEBA-4F7B97A4FAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF49945-5CBF-4AD8-BEBA-4F7B97A4FAC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F8595793-070A-4747-8454-1FF20D086A5F} = {C7BBD760-C669-48B1-90A0-79AAFFF530E2}
+		{7EF49945-5CBF-4AD8-BEBA-4F7B97A4FAC8} = {C7BBD760-C669-48B1-90A0-79AAFFF530E2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "H8rTshOS5Hj1m3aaW0BRdPLnpNd7ncnuRigtwsIXwGUh4A8xskjbtmFaPUvF28qd7sJ6hxe3/hGvWXESxmJC3Q==",
+  "success": true,
+  "projectFilePath": "/Users/rafael/Projetos/cloudmob-fdk-dotnet/src/CloudmobFassUtils/CloudmobFassUtils.csproj",
+  "expectedPackageFiles": [
+    "/Users/rafael/.nuget/packages/microsoft.aspnetcore.http.abstractions/2.2.0/microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "/Users/rafael/.nuget/packages/microsoft.aspnetcore.http.features/2.2.0/microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "/Users/rafael/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/rafael/.nuget/packages/microsoft.extensions.primitives/2.2.0/microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "/Users/rafael/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/rafael/.nuget/packages/system.memory/4.5.1/system.memory.4.5.1.nupkg.sha512",
+    "/Users/rafael/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.1/system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "/Users/rafael/.nuget/packages/system.text.encodings.web/4.5.0/system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

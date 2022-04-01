@@ -1,0 +1,15 @@
+/Users/rafael/Projetos/cloudmob-fdk-dotnet/src/CloudmobFdk/bin/Debug/net6.0/CloudmobFdk.deps.json
+/Users/rafael/Projetos/cloudmob-fdk-dotnet/src/CloudmobFdk/bin/Debug/net6.0/CloudmobFdk.dll
+/Users/rafael/Projetos/cloudmob-fdk-dotnet/src/CloudmobFdk/bin/Debug/net6.0/CloudmobFdk.pdb
+/Users/rafael/Projetos/cloudmob-fdk-dotnet/src/CloudmobFdk/bin/Debug/net6.0/CloudmobFassUtils.dll
+/Users/rafael/Projetos/cloudmob-fdk-dotnet/src/CloudmobFdk/bin/Debug/net6.0/CloudmobFassUtils.pdb
+/Users/rafael/Projetos/cloudmob-fdk-dotnet/src/CloudmobFdk/obj/Debug/net6.0/CloudmobFdk.csproj.AssemblyReference.cache
+/Users/rafael/Projetos/cloudmob-fdk-dotnet/src/CloudmobFdk/obj/Debug/net6.0/CloudmobFdk.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafael/Projetos/cloudmob-fdk-dotnet/src/CloudmobFdk/obj/Debug/net6.0/CloudmobFdk.AssemblyInfoInputs.cache
+/Users/rafael/Projetos/cloudmob-fdk-dotnet/src/CloudmobFdk/obj/Debug/net6.0/CloudmobFdk.AssemblyInfo.cs
+/Users/rafael/Projetos/cloudmob-fdk-dotnet/src/CloudmobFdk/obj/Debug/net6.0/CloudmobFdk.csproj.CoreCompileInputs.cache
+/Users/rafael/Projetos/cloudmob-fdk-dotnet/src/CloudmobFdk/obj/Debug/net6.0/CloudmobFdk.csproj.CopyComplete
+/Users/rafael/Projetos/cloudmob-fdk-dotnet/src/CloudmobFdk/obj/Debug/net6.0/CloudmobFdk.dll
+/Users/rafael/Projetos/cloudmob-fdk-dotnet/src/CloudmobFdk/obj/Debug/net6.0/refint/CloudmobFdk.dll
+/Users/rafael/Projetos/cloudmob-fdk-dotnet/src/CloudmobFdk/obj/Debug/net6.0/CloudmobFdk.pdb
+/Users/rafael/Projetos/cloudmob-fdk-dotnet/src/CloudmobFdk/obj/Debug/net6.0/ref/CloudmobFdk.dll

@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<ItemGroup>
+		<ProjectReference Include="..\CloudmobFassUtils\CloudmobFassUtils.csproj"/>
+	</ItemGroup>
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>disable</Nullable>
+		<Authors>Rafael Araujo</Authors>
+		<VersionPrefix>0.0.1</VersionPrefix>
+		<Company>Cloudmob Tecnologia</Company>
+		<Description>.NET Core implementation of Fn FDK (based on FnProject.Fdk)</Description>
+		<RepositoryUrl>https://github.com/rvaraujo/cloudmob-fdk-dotnet</RepositoryUrl>
+		<PackageTags>fdk fn serverless faas</PackageTags>
+		<PackageReleaseNotes>See README  for usage instructions.</PackageReleaseNotes>
+		<IncludeSymbols>true</IncludeSymbols>
+		<SymbolPackageFormat>snupkg</SymbolPackageFormat>
+		<PackageLicense>https://github.com/rvaraujo/cloudmob-fdk-dotnet/LICENSE</PackageLicense>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNetCore" Version="2.2.0"/>
+		<PackageReference Include="Microsoft.AspNetCore.Server.Kestrel" Version="2.2.0"/>
+		<PackageReference Include="Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv" Version="6.0.3"/>
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.1"/>
+		<PackageReference Include="Mono.Posix.NETStandard" Version="1.0.0"/>
+	</ItemGroup>
+</Project>

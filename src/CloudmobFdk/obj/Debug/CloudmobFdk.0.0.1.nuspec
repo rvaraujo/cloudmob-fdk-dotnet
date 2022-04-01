@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CloudmobFdk</id>
+    <version>0.0.1</version>
+    <authors>Rafael Araujo</authors>
+    <description>.NET Core implementation of Fn FDK (based on FnProject.Fdk)</description>
+    <releaseNotes>See README  for usage instructions.</releaseNotes>
+    <tags>fdk fn serverless faas</tags>
+    <repository url="https://github.com/rvaraujo/cloudmob-fdk-dotnet" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="CloudmobFassUtils" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Server.Kestrel" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv" version="6.0.3" exclude="Build,Analyzers" />
+        <dependency id="Mono.Posix.NETStandard" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/rafael/Projetos/cloudmob-fdk-dotnet/src/CloudmobFdk/bin/Debug/net6.0/CloudmobFdk.dll" target="lib/net6.0/CloudmobFdk.dll" />
+  </files>
+</package>
